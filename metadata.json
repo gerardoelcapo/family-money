@@ -1,0 +1,6 @@
+{
+  "name": "Finanzas Personales",
+  "description": "Una aplicación para registrar gastos e ingresos, categorizar transacciones, visualizar finanzas mensuales, préstamos, inversiones y gestionar alertas de sobreendeudamiento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
